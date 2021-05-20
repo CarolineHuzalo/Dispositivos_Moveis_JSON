@@ -1,0 +1,27 @@
+{
+  "Cabelereiro":[
+    { "tipo": "Corte", "Valor":"30,00"},
+    { "tipo": "Corte com Lavagem", "Valor":"40,00"},
+    { "tipo": "Tintura", "Valor":"25,00"},
+    { "tipo": "Hidratação", "Valor":"35,00"},
+    { "tipo": "Escova", "Valor":"40,00"}
+
+  ],
+  "Promocoes":[
+    { "nome": "Corte a máquina", "valor": "15,00"},
+    { "nome": "Luzes", "valor": "100,00"},
+    { "nome": "Progressiva", "valor": "245,00"}
+	
+  ],
+  "Manicure":[
+    { "Tipo": "Mão", "Valor": "20,00"},
+    { "Tipo": "Pé", "Valor": "30,00"},
+    { "Tipo": "Mão e Pé", "Valor": "45,00"}
+   
+  ],
+  "Endereco":[
+    {"Localidade": "Moinhos", "Endereço": "Av Padre Chagas","Numero":"200","Telefone":"51 3456 7896", "Email": "salao@barbie.com.br"}
+    
+  ]
+  
+}
